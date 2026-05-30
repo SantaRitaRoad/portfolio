@@ -436,7 +436,7 @@ function About() {
                 TRAINER PROFILE
               </h3>
               <p style={{ color: "#ccc", lineHeight: 1.8, fontSize: 14, margin: 0 }}>
-                Adventurous and open-minded, yet grounded in logic — I thrive on challenges both
+                Adventurous and open-minded, yet grounded in logic I thrive on challenges both
                 inside and outside the classroom. When I'm not competing on the varsity volleyball
                 court or tutoring underserved students, you'll find me deep in a video game or
                 making memories with the people I love. I'm driven by a genuine passion for

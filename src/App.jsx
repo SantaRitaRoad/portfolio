@@ -436,9 +436,11 @@ function About() {
                 TRAINER PROFILE
               </h3>
               <p style={{ color: "#ccc", lineHeight: 1.8, fontSize: 14, margin: 0 }}>
-                Astute, highly dedicated and community-oriented student aspiring to pursue
-                Computer Science and Business. Adept at finding opportunities to learn and grow —
-                all while giving back to the community. Highly interested in tutoring and mentorship.
+                Adventurous and open-minded, yet grounded in logic — I thrive on challenges both
+                inside and outside the classroom. When I'm not competing on the varsity volleyball
+                court or tutoring underserved students, you'll find me deep in a video game or
+                making memories with the people I love. I'm driven by a genuine passion for
+                learning and a belief that education has the power to change lives.
               </p>
             </div>
             <div style={{ display: "grid", gridTemplateColumns: "1fr 1fr", gap: 12 }}>
